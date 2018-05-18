@@ -1,2 +1,3 @@
 # my-first-repo
-demo for 5/115/18 NW class
+demo for 5/15/18 NW class
+hello there
